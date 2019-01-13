@@ -1,4 +1,4 @@
-# Predicting Decision Outcomes for US Immigration Data
+## Predicting Decision Outcomes for US Immigration Data
  The data for this project was collected from the Kaggle. This data is collected from United States Citizenship and Immigration Services  (USCIS). 
 
 #### Machine Learning Algorithms Employed
